@@ -1,0 +1,11 @@
+{
+    "_info_": "use auto for autofill",
+    "HOST": "auto",
+    "PORT": "auto",
+    "BYTERATE": 1024,
+    "PREFIX": "",
+    "PROMPT": "\n!username@b0ngserver ► ",
+    "V_PROMPT": "\nverify@b0ngserver  ► ",
+    "LOGIN_PROMPT": "auto"
+  }
+  
